@@ -7,7 +7,8 @@ int fib(int n)
         return a;
     for (i = 2; i <= n; i++) {
         c = a + b;
-        a jdgkasxa
+        a = b;
+        b = c;
     }
     return b;
 }
