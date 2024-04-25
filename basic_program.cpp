@@ -13,7 +13,7 @@ int fib(int n)
     return b;
 }
 int main() { 
-    int n;
+    int number;
     cout <<"cherry pickinggggg"<<endl;
     cout << fib(n);
 
