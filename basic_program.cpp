@@ -6,5 +6,8 @@ int main() {
     cout << "BS23"<<endl;
     cout<<"Creating Conflict in main"<<endl;
     
+    cout<<"creating conflict in feature branch"<<endl;
+    
+
     return 0;
 }
